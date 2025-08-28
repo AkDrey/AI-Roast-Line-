@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Roast - Modern Landing Page
 
 A comprehensive, modern landing page for an AI roasting service with full-stack integrations including Stripe payments, Twilio voice calls, Supabase authentication, and OpenAI AI functionality.
@@ -233,3 +234,7 @@ For support, email hello@airoast.com or create an issue in the repository.
 ---
 
 Built with ❤️ by the AI Roast Team
+=======
+# AI-Roast-Line
+Meet Roastline, your witty AI roast host. It’s comedy with consent and control: you select safe topics (procrastination, gym habits, gaming, coffee, meetings, dad jokes, astrology, fashion) and choose a spice level from gentle to spicy.
+>>>>>>> d97d88e9e1696cd72fb14499437ddb6da248419e
